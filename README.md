@@ -28,17 +28,17 @@ The dataset was prepared before creating the dashboards. The work included:
 ### 1. Overview
 Provides a high-level summary of key metrics and patterns in the dataset.
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](Dashboard1.png)
 
 ### 2. Screen Time & Sleep
 Explores screen-time patterns and sleep-related indicators using visualizations and interactive filters.
 
-![Screen Time & Sleep Dashboard](screenshots/screen-time-sleep.png)
+![Screen Time & Sleep Dashboard](Dashboard2.png)
 
 ### 3. Wellbeing Analysis
 Examines wellbeing categories and mental health indicators to help identify patterns across different groups.
 
-![Wellbeing Analysis Dashboard](screenshots/wellbeing-analysis.png)
+![Wellbeing Analysis Dashboard](Dashboard3.png)
 
 ## Key Findings
 The dashboards help explore patterns between screen time, sleep duration, and wellbeing indicators. Interactive slicers allow users to filter the data and compare different groups.
