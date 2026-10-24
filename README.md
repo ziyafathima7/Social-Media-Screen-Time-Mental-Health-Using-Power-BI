@@ -51,15 +51,10 @@ The dashboards help explore patterns between screen time, sleep duration, and we
 - Use the dashboard filters to explore differences between groups.
 - Interpret mental health indicators carefully and avoid drawing conclusions beyond the available data.
 
-## Files Included
-- `.pbix` – Power BI project file
-- `screenshots/` – Dashboard screenshots
-- `README.md` – Project documentation
-
 ## Dataset Source
 Dataset: *Social Media, Screen Time & Mental Health 2026*
 
-Source: Kaggle — https://www.kaggle.com/
+[Kaggle Source](https://www.kaggle.com/datasets/uditjain13/social-media-screen-time-and-mental-health-2026)
 
 Please refer to the original dataset page for its specific source details and usage terms.
 
